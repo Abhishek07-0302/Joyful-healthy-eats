@@ -1,0 +1,80 @@
+body{
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+p{
+    margin-left: 500px;
+    margin-right: 200px;
+}
+h1{
+    
+    background-color: #3D155F;
+    color: #DF678C;
+    font-size: 50px;
+    margin-left: 535px;
+    margin-right: 545px;
+    
+    font-weight: bold;
+}
+h2{
+    color: rgb(0, 12, 12);
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 45px;
+}
+p{
+    font-size: 25px;
+    
+}
+.blog1{
+    background-image: url(https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=631&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin-left: 180px;
+    margin-right: 180px;
+        
+
+}
+.blog2{
+    background-image: url( https://images.unsplash.com/photo-1592404190290-a12dbfd3843f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fHZlZ2V0YWJsZXN8ZW58MHwxfDB8d2hpdGV8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-end;    
+}
+.item{
+   
+    margin-left: 13px;
+    margin-right: 13px;
+    
+    
+}
+.nav{
+    font-size: 20px;
+    color: rgb(121, 49, 49);
+    background:linear-gradient(rgb(119, 99, 236),rgb(93, 201, 252));
+    
+}
+.contactus{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 40%;
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+span.first{
+   font-size:75px;
+}
+
+
+
+   

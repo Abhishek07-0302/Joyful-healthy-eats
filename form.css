@@ -1,0 +1,71 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1587560699334-cc4ff634909a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNvbnRhY3QlMjB1c3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.name{
+    font-size: 200%;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.email{
+    font-size: 200%;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.message{
+    font-size: 200%;
+    margin-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#name{
+    margin-left: 4%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    border-radius: 4px;
+    padding: 16px 32px;
+}
+#email{
+    margin-left: 2%; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    border-radius: 4px;
+    padding: 16px 32px;
+}
+#message{
+    margin-left: 2%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    border-radius: 4px;
+    padding: 16px 32px;
+}
+form{
+    border: 10px;
+    border: 2px solid red;
+    border-radius: 4px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+button{
+    border-radius: 2px;
+    font-size: 35px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 42%;
+}
